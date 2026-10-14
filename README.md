@@ -14,7 +14,7 @@ Understanding the scheduler beats memorizing flags.
 
 ## Status
 
-Scaffolded. Concept notes and the first implementation are in progress; results land in `results/` once the GPU runs are done.
+Concept primer written (`CONCEPTS.md`). The pressure experiment notebook is next; results land in `results/` once the GPU run is done.
 
 ## Layout
 
