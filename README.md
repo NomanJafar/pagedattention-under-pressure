@@ -14,7 +14,7 @@ Understanding the scheduler beats memorizing flags.
 
 ## Status
 
-Concept primer written (`CONCEPTS.md`). The pressure experiment notebook is next; results land in `results/` once the GPU run is done.
+Primer, timeline analysis and the pressure notebook are done; the GPU run is next.
 
 ## Layout
 
