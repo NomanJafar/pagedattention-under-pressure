@@ -1,0 +1,2 @@
+mode,level,requests,errors,wall_s,requests_per_s,output_tokens_per_s,total_tokens_per_s,ttft_p50_ms,ttft_p95_ms,ttft_p99_ms,tpot_p50_ms,tpot_p95_ms,itl_p50_ms,itl_p95_ms,itl_p99_ms,e2e_p50_s,e2e_p95_s,slo_pass_rate,goodput_requests_per_s,goodput_tokens_per_s
+open,6.0,522,0,162.875,3.204916978244742,1230.688119645981,2964.5482048763865,21663.224,50373.444,51264.205,76.568,78.238,74.414,86.132,146.063,50.78368590550008,75.0419682417501,,,
